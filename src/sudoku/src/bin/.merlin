@@ -1,0 +1,16 @@
+EXCLUDE_QUERY_DIR
+B /Users/thomasbardhi/.opam/4.11.1/lib/animate
+B /Users/thomasbardhi/.opam/4.11.1/lib/cairo2
+B /Users/thomasbardhi/.opam/4.11.1/lib/cairo2-gtk
+B /Users/thomasbardhi/.opam/4.11.1/lib/lablgtk2
+B /Users/thomasbardhi/.opam/4.11.1/lib/ocaml
+B /Users/thomasbardhi/.opam/4.11.1/lib/ocaml/threads
+B ../_build/default/bin/.main.eobjs/byte
+S /Users/thomasbardhi/.opam/4.11.1/lib/animate
+S /Users/thomasbardhi/.opam/4.11.1/lib/cairo2
+S /Users/thomasbardhi/.opam/4.11.1/lib/cairo2-gtk
+S /Users/thomasbardhi/.opam/4.11.1/lib/lablgtk2
+S /Users/thomasbardhi/.opam/4.11.1/lib/ocaml
+S /Users/thomasbardhi/.opam/4.11.1/lib/ocaml/threads
+S .
+FLG -opaque
